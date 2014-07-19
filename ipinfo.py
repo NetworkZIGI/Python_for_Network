@@ -1,5 +1,5 @@
 __author__ = 'Network ZIGI - Ko Jae Sung'
-
+#
 # 2014.07.19. First Version
 #
 # ================================================
@@ -15,7 +15,7 @@ __author__ = 'Network ZIGI - Ko Jae Sung'
 #
 # Tested : Cisco Nexus 5548  : 6.0(2)N2(4)
 #
-#
+
 
 import argparse
 import sys
